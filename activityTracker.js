@@ -42,3 +42,8 @@ const myWeek = [
     return Object.entries(counts)
       .sort(([, a], [, b]) => b - a)[0][0];
   }
+
+// High-order function
+function filterByCondition(testFn, week = myWeek) {
+  return week.filter(testFn);
+}
