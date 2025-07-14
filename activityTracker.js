@@ -1,3 +1,5 @@
+// https://github.com/Azemoytin/cs81-module5b-weektracker
+
 const myWeek = [
   { day: 'Monday',    activity: 'Jogging',         category: 'physical', hoursSpent: 1,   enjoyment: 8,  timeOfDay: 'morning'   },
   { day: 'Tuesday',   activity: 'Sketching',       category: 'creative', hoursSpent: 2,   enjoyment: 7,  timeOfDay: 'evening'   },
