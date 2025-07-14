@@ -2,10 +2,8 @@
 
 Were your predictions accurate?
 
-Yes, my guesses were accurate
-Top enjoyment: I thought Team Practice would be the most enjoyable, and it was.
-Main category: I expected physical activities to appear most often, and they did for 3 out of the 7 days
-Time-of-day trend: I predicted mornings would be physical and afternoons more social. That’s exactly what the data showed.
+Yes, my guesses were accurate because 
+top enjoyment was Team Practice, Main category as expected was physical activities, and Time-of-day trend was correct by having the mornings physical and afternoons more social.
 
 What surprised you about your week?
 
